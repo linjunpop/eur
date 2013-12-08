@@ -1,4 +1,4 @@
-EUR Selling Rate
+€ Selling Rate
 ===
 
-data: http://www.boc.cn/sourcedb/whpj/enindex.html
+Data source: http://www.boc.cn/sourcedb/whpj/enindex.html
